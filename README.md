@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Ken
+<h2 align="left">Hi, you can call me Ken. I'm a gamer and developer. 
+
 
 ###
 
