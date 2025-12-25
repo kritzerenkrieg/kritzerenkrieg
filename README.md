@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ken, and I'm a lab assistant in IT Infrastructure & Security Laboratory - Information Systems Department ITS</h2>
+<h2 align="left">Hi 👋! My name is Ken
 
 ###
 
