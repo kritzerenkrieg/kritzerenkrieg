@@ -1,3 +1,3 @@
 ![Ken's Counter](https://countbooru.vercel.app/ken.gif)
 
-Made with [Countbooru](PLACEHOLDER_REPO_LINK)
+Made with [Countbooru](github.com/kritzerenkrieg/countbooru)
